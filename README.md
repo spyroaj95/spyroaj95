@@ -1,6 +1,6 @@
 ### Spyro Jacobson
 
-Growth and partnerships operator across six B2B AI startups. AI-native: I build and run agentic automation every day, including an 18-skill Claude Code system that runs research, CRM, and outbound across a venture studio's portfolio.
+Growth and partnerships operator across multiple B2B AI startups. AI-native: I build and run agentic automation every day, including an 18-skill Claude Code system that runs research, CRM, and outbound across a venture studio's portfolio.
 
 Before this: operator-side growth at an AI venture studio, three years investing in early-stage AI at Olive Tree Ventures and Alpaca VC, and strategic consulting at JLL.
 
